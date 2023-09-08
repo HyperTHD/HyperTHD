@@ -1,4 +1,4 @@
-### Hi there 👋, my name is ***Abdulbasid Guled***, Toronto based developer for Employment and Social Development Canada (ESDC). I will soon be graduating with a Bachelors Degree in Software Development from Seneca College (BSD).
+### Hi there 👋, my name is ***Abdulbasid Guled***, a Toronto based developer for Employment and Social Development Canada (ESDC). I graduated with a Bachelors Degree in Software Development from Seneca College (BSD).
 
 
 * My work is currently focused on backend web services/routing using Java/XML based technologies along with a bit of APIM development. However, I also have a love for Web/Full-Stack development and tend to work on them on the side as a hobby.
